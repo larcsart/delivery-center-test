@@ -1,0 +1,40 @@
+{
+  "externalCode":"9987071",
+  "storeId":"282",
+  "subTotal":"49.9",
+  "deliveryFee":"5.14",
+  "total":"55.04",
+  "dtOrderCreate":"2019-06-24T20:45:32.000Z",
+  "country":"BR",
+  "state":"São Paulo",
+  "city":"Cidade de Testes",
+  "district":"Vila de Testes",
+  "street":"Rua Fake de Testes",
+  "number":"3454",
+  "complement":"teste",
+  "postalCode":"85045020",
+  "latitude":-23.629037,
+  "longitude":-46.712689,
+  "customer":{
+    "externalCode":"136226073",
+    "name":"JOHN DOE",
+    "email":"john@doe.com",
+    "contact":"41999999999"
+  },
+  "items":[
+    {
+      "externalCode":"IT4801901403",
+      "name":"Produto de Testes",
+      "price":"49.9",
+      "quantity":1,
+      "total":"49.9",
+      "subItem_id":null
+    }
+  ],
+  "payments":[
+    {
+      "payment_type":"CREDIT_CARD",
+      "value":"55.04"
+    }
+  ]
+}
